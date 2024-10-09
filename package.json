@@ -1,0 +1,16 @@
+{
+	"name": "hakowanieproduktywnosci",
+	"version": "1.0.0",
+	"description": "Hakowanie Produktywności jest moim flagowym szkoleniem, podczas którego dzielę się najskuteczniejszymi technikami bycia skutecznym i produktywnym w pracy i życiu osobistym.",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"prettier": "^3.3.3",
+		"prettier-plugin-tailwindcss": "^0.6.8",
+		"tailwindcss": "^3.4.13"
+	}
+}
