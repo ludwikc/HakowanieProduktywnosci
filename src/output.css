@@ -553,3 +553,13 @@ video {
 [hidden] {
   display: none;
 }
+
+.bg-black {
+  --tw-bg-opacity: 1;
+  background-color: rgb(0 0 0 / var(--tw-bg-opacity));
+}
+
+.font-inter {
+  font-family: Inter, sans-serif;
+}
+
